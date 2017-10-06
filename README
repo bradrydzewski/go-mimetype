@@ -1,0 +1,3 @@
+Package mimetype registers common mime types and file extensions on initialization.
+
+    import _ "github.com/bradrydzewski/go-mimetype"
